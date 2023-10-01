@@ -13,7 +13,7 @@ Head to this project's [Releases](https://github.com/JohnTHaller/RootCertificate
 8. Click OK to each warning for each certificate and then OK again once the import was successful.
 9. Select the Intermediate Certification Authorities tab in the Certificates window
 10. Click Import, click the Next button, click Browse and browse to the directory you saved your certificates to.
-11. Change the file filter in the lower right of the window from X.509 or similar to Microsoft Serialized Certificate Store and then select the WindowsRoot.sst file and click OK.
+11. Change the file filter in the lower right of the window from X.509 or similar to Microsoft Serialized Certificate Store and then select the WindowsIntermediate.sst file and click OK.
 12. Click Next, then Next, then Finish.
 13. Reboot your system just to be safe.
 You should now have access to all the standard certificates needed for most apps.
