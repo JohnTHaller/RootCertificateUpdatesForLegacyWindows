@@ -1,4 +1,9 @@
 # Root Certificate Updates For Legacy Windows (Vista, XP, 2000)
+
+![GitHub Release](https://img.shields.io/github/v/release/JohnTHaller/RootCertificateUpdatesForLegacyWindows)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/JohnTHaller/RootCertificateUpdatesForLegacyWindows/total)
+![GitHub Repo stars](https://img.shields.io/github/stars/JohnTHaller/RootCertificateUpdatesForLegacyWindows)
+
 Older versions of Windows no longer update their Trusted Root Certification Authorities, resulting in HTTPS connection errors in browsers and applications. This project allows a user to manually update the root and intermediate certificates to the current versions used in modern Windows to fix these errors. The certificates for [Let's Encrypt](https://letsencrypt.org/) are also included. The package will be updated about every 3 months.
 ## Downloading the Certificates
 Head to this project's [Releases](https://github.com/JohnTHaller/RootCertificateUpdatesForLegacyWindows/releases) and download WindowsRoot.sst and WindowsIntermediate.sst from the most current release. Save them to your Desktop or Downloads directory for use in the next step.
