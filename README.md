@@ -2,6 +2,7 @@
 
 ![GitHub Release](https://img.shields.io/github/v/release/JohnTHaller/RootCertificateUpdatesForLegacyWindows)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/JohnTHaller/RootCertificateUpdatesForLegacyWindows/total)
+![GitHub License](https://img.shields.io/github/license/JohnTHaller/RootCertificateUpdatesForLegacyWindows)
 ![GitHub Repo stars](https://img.shields.io/github/stars/JohnTHaller/RootCertificateUpdatesForLegacyWindows)
 
 Older versions of Windows no longer update their Trusted Root Certification Authorities, resulting in HTTPS connection errors in browsers and applications. This project allows a user to manually update the root and intermediate certificates to the current versions used in modern Windows to fix these errors. The certificates for [Let's Encrypt](https://letsencrypt.org/) are also included. The package will be updated about every 3 months.
