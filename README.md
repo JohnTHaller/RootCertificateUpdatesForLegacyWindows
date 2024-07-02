@@ -22,5 +22,7 @@ Head to this project's [Releases](https://github.com/JohnTHaller/RootCertificate
 11. Change the file filter in the lower right of the window from X.509 or similar to Microsoft Serialized Certificate Store and then select the WindowsIntermediate.sst file and click OK.
 12. Click Next, then Next, then Finish.
 13. Reboot your system just to be safe.
+
 You should now have access to all the standard certificates needed for most apps.
+
 PFX files are also included for use on other operating systems like Android. They are password protected with a password of 12345
