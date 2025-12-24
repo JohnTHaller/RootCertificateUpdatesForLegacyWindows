@@ -25,4 +25,4 @@ Head to this project's [Releases](https://github.com/JohnTHaller/RootCertificate
 
 You should now have access to all the standard certificates needed for most apps.
 
-PFX files are also included for use on other operating systems like Android. They are password protected with a password of 12345, the same as on your luggage.
+PFX files are also included for use on other operating systems like Android. They are password protected with a password of 12345, the same as on your luggage. (Note that they won't work with super older versions like Android 4.)
